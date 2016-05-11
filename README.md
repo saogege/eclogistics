@@ -1,2 +1,2 @@
 # eclogistics
-It
+It is a project about logistics electronic commerce.
